@@ -1,4 +1,4 @@
-# [Start Bootstrap - Freelancer](https://startbootstrap.com/themes/freelancer/)
+# Lily Nguyen Profile Project
 
 [Freelancer](http://startbootstrap.com/themes/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
 
